@@ -33,3 +33,12 @@ break you program. Branches help by allowing the user to maintain signficantly
  and showing you how many branches you have. Having a diagram makes
  it easier to visualize and keep track of all these different
  paths.
+
+ What is the result of merging two branches together? Why do we
+ represent it in the diagram the way we do?
+
+Merging two branches together adds all of the commits from both branches
+together. This allows for a feature being worked on somewhere else to be
+added into the full program. The diagram gets changed because now the
+commits from the two merged branches can be reached through one single
+branch.
