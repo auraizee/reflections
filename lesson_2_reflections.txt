@@ -26,3 +26,10 @@ Some situations where branches would be helpful would be when adding an experime
 feature to your program or adding a signficant change that you're not sure will
 break you program. Branches help by allowing the user to maintain signficantly
  different versions of the program they are working on at the same time.
+
+ How do the diagrams help you visualize the branch structure?
+
+ The diagrams help by showing you where different branches start
+ and showing you how many branches you have. Having a diagram makes
+ it easier to visualize and keep track of all these different
+ paths.
