@@ -42,3 +42,13 @@ together. This allows for a feature being worked on somewhere else to be
 added into the full program. The diagram gets changed because now the
 commits from the two merged branches can be reached through one single
 branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+ merges manually?
+
+A pro of automatic merging is that it is very quick and simple. A con
+is that the user has to trust that Git is merging properly and not
+causing unwanted problems. A pro of merging manually is that you can be
+sure that the merge happens properly and that all conflicts are sorted
+out properly. A con is that it takes longer, with more work on the user's
+end.
