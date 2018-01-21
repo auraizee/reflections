@@ -18,3 +18,11 @@ Once you make a change, git status allows you to see that you modified a file.
 Adding it to the staging area will show you that you are about to commit the
 file where that change was made, and it will show that no other files have been
 changed because they won't show up as untracked.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Some situations where branches would be helpful would be when adding an experimental
+feature to your program or adding a signficant change that you're not sure will
+break you program. Branches help by allowing the user to maintain signficantly
+ different versions of the program they are working on at the same time.
