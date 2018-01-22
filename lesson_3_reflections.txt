@@ -18,3 +18,8 @@ You would use a fork when you want to copy someone's respository to your own Git
 You would use clone when you want to copy a repository from GitHub to your machine or when
 you want to copy a repository on your machine to another location on the machine.
 You would use a branch when you want to work on a new feature or experiment with your project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This is beneficial because it lets you know what the latest changes on the remote were before
+you start working.
