@@ -10,3 +10,11 @@ up-to-date with your remote repository?
 You might want to pull changes manually if you don't want the work that another contributor
 has done to affect a certain feature you are working on. You may want to work on your part
 alone first before seeing if it works with other people's work.
+
+Describe the differences between forks, clones, and branches. When would you use one instead
+ of another?
+
+You would use a fork when you want to copy someone's respository to your own GitHub account.
+You would use clone when you want to copy a repository from GitHub to your machine or when
+you want to copy a repository on your machine to another location on the machine.
+You would use a branch when you want to work on a new feature or experiment with your project.
